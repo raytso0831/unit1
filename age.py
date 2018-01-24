@@ -1,6 +1,6 @@
 #Ray Tso
 #1/22/18
-#shouter.py
+#age.py
 
 phrase= input('enter first and last name')
 age=int(input('enter your age'))
