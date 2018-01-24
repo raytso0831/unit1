@@ -2,7 +2,7 @@
 #1/17/18
 #km2miles.py
 
-kilo=int(input ('What is the number of kilometers? '))
-mi=float(input('How many kilometers are there in a mile?'))
+kilo=float(input ('What is the number of kilometers? '))
+miles= float(1.61)
 
-print(' number of miles', kilo/mi)
+print(' number of miles', kilo/miles)
