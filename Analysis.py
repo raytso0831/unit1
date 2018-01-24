@@ -3,6 +3,7 @@
 #Analysis.py
 
 sentence= input('enter a sentence')
+
 age=int(input('enter your age'))
 first,last=phrase.split()
 print(len(first))
