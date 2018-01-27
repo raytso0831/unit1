@@ -6,7 +6,7 @@ from random import randint
 input(' What is your name :')
 
 
-lucky_number=randint(-1000,1000)
+lucky_number=randint(-10000,10000)
 
 print(lucky_number)
 
